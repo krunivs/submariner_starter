@@ -1,0 +1,3 @@
+# After terminate deploy-broker.sh, broker connection file is created in current directory
+# Broker connection filename: broker-info.subm
+# Slave cluster can join to master cluster with master's "broker-info.subm" file 
